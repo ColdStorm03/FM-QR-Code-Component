@@ -12,11 +12,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
 ## Author
 
-- Website - (https://github.com/ColdStorm03)
+- GitHub - (https://github.com/ColdStorm03)
 - Frontend Mentor - (https://www.frontendmentor.io/profile/ColdStorm03)
